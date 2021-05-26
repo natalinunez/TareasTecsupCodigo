@@ -1,0 +1,4 @@
+Ejercicios propuestos página 43 libro (Algoritmos resueltos) (23 ejercicios) resueltos en JavaScript.´
+Fecha máxima de entrega: Miércoles 26/05 06:00pm
+ENVIAR LINK MEDIANTE MENSAJE PRIVADO con la dirección de sus repositorios.
+Obviar ejercicios: 2.16, 2.17, 2.18
